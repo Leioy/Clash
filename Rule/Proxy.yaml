@@ -433,3 +433,4 @@ payload:
   - DOMAIN-SUFFIX,yimg.com,Proxy
   - DOMAIN,api.steampowered.com,Proxy
   - DOMAIN,store.steampowered.com,Proxy
+  - DOMAIN,dev.to,Proxy
