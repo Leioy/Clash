@@ -1,6 +1,5 @@
 # NAME: China
 payload:
-  - DOMAIN,cwiki.yunify.com
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,cdn.angruo.com
@@ -576,3 +575,4 @@ payload:
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-SUFFIX,dm0.cc
   - DOMAIN-SUFFIX,registry.npmmirror.com
+  - DOMAIN-SUFFIX,cwiki.yunify.com
