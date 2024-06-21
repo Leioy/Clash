@@ -575,4 +575,4 @@ payload:
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-SUFFIX,dm0.cc
   - DOMAIN-SUFFIX,registry.npmmirror.com
-  - DOMAIN-SUFFIX,cwiki.yunify.com
+  - DOMAIN,cwiki.yunify.com
